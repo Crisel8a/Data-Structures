@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-struct { //los arreglos son estáticos y estériles
+struct { //los arreglos son estáticos 
     int n;
     int *head;
     int ocupados;
